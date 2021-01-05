@@ -17,19 +17,15 @@ html {
 /* margins */
 
 .mt-xl {
-    margin-top: 60px;
+    margin-top: 40px;
 }
 
 .mt-xxl {
-    margin-top: 70px;
+    margin-top: 60px;
 }
 
 .mb-sm {
   margin-bottom: 20px;
-}
-
-.mb-xl {
-  margin-bottom: 50px;
 }
 
 /* link */
@@ -73,12 +69,12 @@ hr {
 
 .header h1.name {
     font-weight: 600;
-    font-size: 2.1875rem;
+    font-size: 2.9875rem;
     color: #333333;
 }
 
 .header ul.nav li {
-    font-size: 1rem;
+    font-size: 1.25rem;
 }
 
 .header ul.nav {
