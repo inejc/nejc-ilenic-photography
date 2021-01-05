@@ -1,4 +1,4 @@
-baseurl = "https://nejcilenic.photography"
+baseurl = "https://inejc.github.io/nejc-ilenic-photography"
 title = "Nejc Ilenic Photography"
 author = "Nejc Ilenic"
 canonifyurls = true
@@ -12,6 +12,8 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+publishDir = "docs"
 
 [params]
   sitename = "Nejc Ilenic Photography"
