@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nejc Ilenic Photography</title>
-    <link>https://inejc.github.io/nejc-ilenic-photography/categories/</link>
+    <link>https://ilenic.photos/categories/</link>
     <description>Recent content in Categories on Nejc Ilenic Photography</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://inejc.github.io/nejc-ilenic-photography/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://ilenic.photos/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
