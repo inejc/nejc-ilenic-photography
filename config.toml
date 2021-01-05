@@ -1,4 +1,4 @@
-baseurl = "https://inejc.github.io/nejc-ilenic-photography"
+baseURL = "inejc.github.io/nejc-ilenic-photography/"
 title = "Nejc Ilenic Photography"
 author = "Nejc Ilenic"
 canonifyurls = true
