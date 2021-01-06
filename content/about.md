@@ -7,8 +7,12 @@ menu: "main"
 
 I'm an amateur photographer from Slovenia who is mostly interested in taking landscape and woodland images. My favourite professional photographers are Thomas Heaton, Simon Baxter, Adam Gibbs, Nigel Danson, and Ben Horne.
 
+<br/>
+
 ---
 
-Instagram: [nejc.ilenic](https://www.instagram.com/nejc.ilenic)
+<br/>
 
-E-mail: nejc dot ilenic at gmail dot com
+**Instagram:** [nejc.ilenic](https://www.instagram.com/nejc.ilenic)
+
+**E-mail:** nejc dot ilenic at gmail dot com
