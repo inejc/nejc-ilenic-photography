@@ -154,6 +154,11 @@ figcaption {
     margin-top: 10px;
 }
 
+figcaption h4 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
 .content .figure img {
     display: block;
     margin-left: auto;
