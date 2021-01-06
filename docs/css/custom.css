@@ -28,6 +28,10 @@ html {
   margin-bottom: 20px;
 }
 
+.mb-xl {
+  margin-bottom: 40px;
+}
+
 /* link */
 
 a {
