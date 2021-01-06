@@ -10,4 +10,4 @@ draft: false
 
 {{< figure src="/images/landscapes-2020/DSC02290.jpg" title="Sračja dolina, August 11th 2020" width="70%" class="mt-xxl">}}
 
-{{< figure src="/images/landscapes-2020/DSC02226.jpg" title="Mirna gora, July 31st 2020" width="100%" class="mt-xxl">}}
+{{< figure src="/images/landscapes-2020/DSC02226.jpg" title="Mirna gora, July 31st 2020" width="100%" class="mt-xxl mb-xl">}}
