@@ -5,7 +5,7 @@ menu: "main"
 
 {{< figure src="/images/nejc.jpg" width="70%" class="mb-sm">}}
 
-I'm an amateur photographer from Slovenia who's mostly interested in taking landscape and woodland images. My favourite professional photographers are Thomas Heaton, Simon Baxter, Andrew Baruffi, Adam Gibbs, Nigel Danson, and Ben Horne.
+I'm an amateur photographer from Slovenia who mostly enjoys shooting intimate landscape and woodland scenes. My favourite professional photographers are Thomas Heaton, Simon Baxter, Adam Gibbs, Nigel Danson, and Ben Horne.
 
 <br/>
 
