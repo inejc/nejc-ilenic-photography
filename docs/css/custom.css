@@ -9,8 +9,12 @@ body {
 
 /* Fix jumping scrollbar when switching to long pages */
 
+.content, .header {
+  margin-left: calc(100vw - 100%);
+}
+
 html {
-    margin-left: calc(100vw - 100%);
+    margin-left: 0;
     margin-right: 0;
 }
 
@@ -22,6 +26,10 @@ html {
 
 .mt-xxl {
     margin-top: 60px;
+}
+
+.mt-sm {
+  margin-top: 20px;
 }
 
 .mb-sm {
@@ -266,6 +274,13 @@ figcaption h4 {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     max-width: 100%;
+}
+
+/* < Misc */
+
+.logo {
+  margin-bottom: 2rem;
+  width: 100%;
 }
 
 /* < medium screens */
