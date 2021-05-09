@@ -13,6 +13,4 @@ I'm an amateur photographer from Slovenia who mostly enjoys shooting intimate la
 
 <br/>
 
-**Instagram:** <a href="https://www.instagram.com/nejc.ilenic" target="_blank">nejc.ilenic</a>
-
 **E-mail:** nejc dot ilenic at gmail dot com
