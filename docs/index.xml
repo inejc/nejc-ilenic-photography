@@ -17,23 +17,22 @@
     </item>
     
     <item>
-      <title>2020</title>
-      <link>https://ilenic.photos/posts/2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilenic.photos/posts/2020/</guid>
-      <description> Kriška gora, October 9th 2020    Sovatna, August 25th 2020    Sračja dolina, August 11th 2020    Mirna gora, July 31st 2020   </description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>https://ilenic.photos/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ilenic.photos/about/</guid>
       <description>I&amp;rsquo;m an amateur photographer from Slovenia who mostly enjoys shooting intimate landscape and woodland scenes. My favourite professional photographers are Thomas Heaton, Simon Baxter, Adam Gibbs, Nigel Danson, Ben Horne, and Andrew Baruffi.
-   Instagram: nejc.ilenic
-E-mail: nejc dot ilenic at gmail dot com</description>
+   E-mail: nejc dot ilenic at gmail dot com</description>
+    </item>
+    
+    <item>
+      <title>Isolation</title>
+      <link>https://ilenic.photos/posts/isolation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilenic.photos/posts/isolation/</guid>
+      <description> Kriška gora, October 9th 2020    Sovatna, August 25th 2020    Sračja dolina, August 11th 2020    Mirna gora, July 31st 2020   </description>
     </item>
     
   </channel>

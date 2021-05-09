@@ -284,7 +284,6 @@ figcaption h4 {
 
 .logo {
   margin-top: 1.1rem;
-  margin-bottom: 2rem;
   width: 100%;
 }
 
@@ -314,8 +313,13 @@ a.thumbnail:hover img {
     html {
         font-size: 0.9rem;
     }
+
     .content .meta, .content .markdown h1, .content .markdown h2, .content .markdown h3, .content .markdown h4, .content .markdown h5, .content .markdown h6, .content .markdown p, .content .markdown ul, .content .markdown ol, .content .markdown dl, .content .markdown blockquote, div.alert, form, table, .gist-file {
         margin-left: 0;
         margin-right: 0;
+    }
+
+    .pb-sm {
+      padding-bottom: 20px;
     }
 }
