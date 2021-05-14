@@ -1,36 +1,36 @@
-baseurl = "https://ilenic.photos/"
-title = "Nejc Ilenic Photography"
 author = "Nejc Ilenic"
+baseurl = "https://ilenic.photos/"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
+title = "Nejc Ilenic Portfolio"
 
-enableEmoji = true
+enableEmoji = false
 hasCJKLanguage = false
 
-pygmentsstyle = "vs"
 pygmentscodefences = true
+pygmentsstyle = "vs"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 publishDir = "docs"
 
 [params]
-  sitename = "Nejc Ilenic Photography"
-  # faviconfile = "images/favicon.png"
-  uselatex = true
-  progressively = false
+sitename = "Nejc Ilenic Portfolio"
+# faviconfile = "static/images/favicon.png"
+progressively = false
+uselatex = false
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menu.primary]]
-    name = "Home"
-    url = "/"
-    weight = 1
+name = "Home"
+url = "/"
+weight = 1
 [[menu.primary]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+name = "About"
+url = "/about/"
+weight = 2

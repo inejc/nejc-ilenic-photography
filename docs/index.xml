@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nejc Ilenic Photography</title>
+    <title>Nejc Ilenic Portfolio</title>
     <link>https://ilenic.photos/</link>
-    <description>Recent content on Nejc Ilenic Photography</description>
+    <description>Recent content on Nejc Ilenic Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ilenic.photos/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ilenic.photos/about/</guid>
-      <description>I&amp;rsquo;m an amateur photographer from Slovenia who mostly enjoys shooting intimate landscape and woodland scenes. My favourite professional photographers are Thomas Heaton, Simon Baxter, Adam Gibbs, Nigel Danson, Ben Horne, and Andrew Baruffi.
+      <description>I&amp;rsquo;m an amateur photographer who mostly enjoys shooting intimate landscape and woodland scenes. My favourite professional photographers are Thomas Heaton, Simon Baxter, Adam Gibbs, Nigel Danson, Ben Horne, and Andrew Baruffi.
    E-mail: nejc dot ilenic at gmail dot com</description>
     </item>
     
