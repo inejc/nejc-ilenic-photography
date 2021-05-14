@@ -32,16 +32,20 @@ html {
     margin-top: 60px;
 }
 
+.mb-xs {
+    margin-bottom: 15px;
+}
+
 .mb-sm {
-  margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .mb-md {
-  margin-bottom: 35px;
+    margin-bottom: 35px;
 }
 
 .mb-xl {
-  margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 /* link */
