@@ -7,6 +7,6 @@ menu: "main"
 
 I'm an amateur photographer who mostly enjoys shooting intimate landscape and woodland scenes. My favourite professional photographers are Thomas Heaton, Simon Baxter, Adam Gibbs, Nigel Danson, Ben Horne, and Andrew Baruffi.
 
-<br/>
-
-**E-mail:** nejc dot ilenic at gmail dot com
+<div class="mt-xl mb-md">
+  <b>E-mail:</b> nejc dot ilenic at gmail dot com
+</div>
