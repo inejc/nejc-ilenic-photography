@@ -9,8 +9,4 @@ I'm an amateur photographer who mostly enjoys shooting intimate landscape and wo
 
 <br/>
 
----
-
-<br/>
-
 **E-mail:** nejc dot ilenic at gmail dot com
